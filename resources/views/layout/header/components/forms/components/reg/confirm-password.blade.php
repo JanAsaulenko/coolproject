@@ -1,0 +1,1 @@
+<input id="password-confirm" type="password" class="__input" name="password_confirmation" required>
